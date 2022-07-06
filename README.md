@@ -4,4 +4,4 @@
 
 # Running Metabase on Dokku
 
-Standard Heroku install ported to Dokku
+Standard [metabase-deploy Heroku install](https://github.com/metabase/metabase-deploy) ported to Dokku
